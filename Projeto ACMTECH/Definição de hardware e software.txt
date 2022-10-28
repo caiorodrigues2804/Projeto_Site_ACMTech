@@ -1,0 +1,31 @@
+Notebook Inspiron 15 
+Qtd = 5 (8)
+
+Optiplex 3090 Micro 
+Qtd = 13
+
+Monitor Dell 22 
+Qtd = 13
+
+Impressoras 
+Qtd = 6
+
+Telefone Cisco CP-7821 
+Qtd = 10
+
+Telefone Ip Cisco CP=8845-K9 
+Qtd = 8
+
+Switch
+CISCO SG220-26
+Qtd = 2
+
+
+Servidor Rack PowerEdge R250
+Qtd = 1
+
+Ap Cisco Business 140 AC
+Qtd = 3
+
+
+
