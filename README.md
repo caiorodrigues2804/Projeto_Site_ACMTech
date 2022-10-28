@@ -1,10 +1,3 @@
-# Projeto Acadêmico ACMTech Soluções em TI
+# Software ACMRedes Software de Monitoramento de Redes (NOC)
 
-### Seja bem-vindo ao meu projeto acadêmico ACMTech 
-
-<<<<<<< HEAD
-### Arquivos Pdf, Word, Excel e etc..
-
-<img src="https://scontent.fcgh22-1.fna.fbcdn.net/v/t39.30808-6/313403172_1434753493715097_8108109822223264673_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=jaNO8BNEFFIAX_n_FOB&_nc_ht=scontent.fcgh22-1.fna&oh=00_AfAvxxgUMDdgZ9QlXO3mbVMu13vxEyxNylOzBQWQfBgZlQ&oe=636078DD">
-=======
->>>>>>> ca16bff (Meus commits)
+<img src="https://scontent.fcgh22-1.fna.fbcdn.net/v/t39.30808-6/312083999_1434776923712754_9068670958082527464_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_ohc=uBo9vjuVybMAX8wRgUi&_nc_ht=scontent.fcgh22-1.fna&oh=00_AfCzw4TiaMNUbpp_hVBmXMk1vhp_PmoL1VIs-gSplu0okA&oe=63610455">
